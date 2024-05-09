@@ -2,7 +2,7 @@
 
 `rshk-jsifenlib` es una librería de código abierto, sin dependencias externas, para interactuar con SIFEN (Sistema
 Integrado de Factura Electrónica Nacional) originalmente de un SDK para el lenguaje Java versión 8. Esta implementación 
-es para la implementación SDK java 17 la cual no se realizado pruebas en producción.
+es para SDK java 17 la cual no se realizado pruebas en producción.
 
 ## Instalación
 
